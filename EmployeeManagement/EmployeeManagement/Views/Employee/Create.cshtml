@@ -1,0 +1,59 @@
+﻿@model EmployeeManagement.Models.Employee;
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h3 class="text-center">Add Employee</h3>
+    <form asp-action="Create" asp-controller="Employee" method="post">
+        <div class="form-group">
+            <label for="Name">Name</label>
+            <input asp-for="Name" type="text" class="form-control" id="Name" placeholder="Enter Name">
+            <span asp-validation-for="Name" class="alert-danger"></span>
+        </div>
+        <div class="form-group">
+            <label> Surname</label>
+            <input asp-for="Surname" type="text" class="form-control" id="Surname" placeholder="Enter Surname">
+            <span asp-validation-for="Surname" class="alert-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Address">Address</label>
+            <textarea asp-for="Address" class="form-control" id="Address" placeholder="Enter address"></textarea>
+            <span asp-validation-for="Address" class="alert-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Mobilenumber">Mobile number</label>
+            <input asp-for="Contactnumber" type="number" class="form-control" id="Mobilenumber" placeholder="Enter Mobilenumber">
+            <span asp-validation-for="Contactnumber" class="alert-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Department">Department</label>
+            <select asp-for="Department.Department_name" required>
+                @foreach (var item in @ViewBag.Departments)
+                {
+                <option>@item.Department_name</option>
+
+                }
+                @*<option value="HR">HR</option>
+        <option value="Development">Development</option>*@
+
+            </select >
+            <br />
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>
+@section Scripts {
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

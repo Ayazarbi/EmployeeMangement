@@ -1,0 +1,32 @@
+﻿@model EmployeeManagement.Models.Department;
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h3 class="text-center ">Edit Department</h3>
+    <form asp-action="EditDepartment" asp-controller="Department" asp-route-id=@Model.DepartmentId method="post" required>
+
+
+        <div class="form-group">
+            <label for="Name">Department Name</label>
+            <input asp-for="Department_name" type="text" class="form-control" id="Name" placeholder="Enter Name">
+            <span asp-validation-for="Department_name" class="alert-danger"></span>
+        </div>
+        <input type="submit" value="Update" class="btn btn-primary" />
+
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

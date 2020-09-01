@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X30NLaV8fi7SrkArldoxRi6mwF0HFgPl74PXzLUoQczPdUBKCFRKcI8ns5Ei0PWzFxRplukEkcTRoLCfjMieQA==",
+  "dgSpecHash": "G3skVNLlmewsUo5lkuND+KmquAQWR8HB0MmUFd2IAG+I/uwjQLVQouvAtvAt3LHjtMzkJCzTbrvyRqblV0OkwA==",
   "success": true,
-  "projectFilePath": "E:\\Promact-git\\EmployeeManaagement\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "E:\\Promact-git\\EmployeeMangement\\EmployeeManagement-Efcore\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moaya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\moaya\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

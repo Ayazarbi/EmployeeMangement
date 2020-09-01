@@ -12,10 +12,16 @@ namespace EmployeeManagement.Models
         {
 
         }
-
+        
         public DbSet<Employee> _employeelist { get; set; }
         public DbSet<Department> _dptlist { get; set; }
-    
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            
+        }
+
     }
 
 }

@@ -23,7 +23,10 @@ namespace EmployeeManagement.Models
         {
             var dept = _context._dptlist.Find(id);
             _context._dptlist.Remove(dept);
+            _context._employeelist.ToList().RemoveAll(x => x.DepartmentId == id);
             _context.SaveChanges();
+
+
         }   
 
         public List<Department> GetallDepartments()

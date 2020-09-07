@@ -6,7 +6,7 @@
 <body>
     <h3 class="text-center">Add Employee</h3>
     <form asp-action="Create" asp-controller="Employee" method="post">
-        <div class="form-group">
+         <div class="form-group">
             <label for="Name">Name</label>
             <input asp-for="Name" type="text" class="form-control" id="Name" placeholder="Enter Name">
             <span asp-validation-for="Name" class="alert-danger"></span>
@@ -34,13 +34,11 @@
             <select asp-for="Department.Department_name" required>
                 @foreach (var item in @ViewBag.Departments)
                 {
-                <option>@item.Department_name</option>
-
-                }
+    <option>@item.Department_name</option>}
                 @*<option value="HR">HR</option>
-        <option value="Development">Development</option>*@
+                <option value="Development">Development</option>*@
 
-            </select >
+            </select>
             <br />
             <input type="submit" value="Create" class="btn btn-primary" />
         </div>

@@ -11,6 +11,10 @@ namespace EmployeeManagement.Models
     public class Employee
     {
         public int EmployeeId { get; set; }
+
+        [EmailAddress]
+        public String Email { get; set; }
+       
         [Required]
         [MaxLength(20, ErrorMessage = "Surname cannot be more than 20 character")]
         public String Name { get; set; }

@@ -9,6 +9,18 @@
     <form asp-action="EditEmployee" asp-controller="Employee" asp-route-id=@Model.EmployeeId method="post">
         @*<input type="hidden" asp-for="EmployeeId" />*@
         <div class="form-group">
+            <label for="Email">Email</label>
+            <input asp-for="Email" type="text" class="form-control" id="Email" disabled="Enter Name" value=@Model.Email required>
+
+            <span asp-validation-for="Name" class="alert-danger"></span>
+        </div>
+        <a asp-action="Editemail" asp-controller="employee" class="btn btn-primary" asp-route-id=@Model.EmployeeId>Edit email</a>
+        <span asp-validation-for="Name" class="alert-danger"></span>
+        <input type="hidden" asp-for="Email" />
+
+
+
+        <div class="form-group">
             <label for="Name">Name</label>
             <input asp-for="Name" type="text" class="form-control" id="Name" placeholder="Enter Name" required>
             <span asp-validation-for="Name" class="alert-danger"></span>
@@ -36,11 +48,10 @@
             <select asp-for="Department.Department_name">
                 @foreach (var item in @ViewBag.Departments)
                 {
-                    <option>@item.Department_name</option>
-
-                }
+    <option>@item.Department_name</option>
+}
             </select><br />
-            
+
             <input type="submit" value="Update" class="btn btn-primary" />
 
         </div>

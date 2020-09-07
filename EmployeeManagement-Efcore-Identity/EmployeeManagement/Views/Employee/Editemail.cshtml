@@ -1,0 +1,22 @@
+﻿@model EmployeeManagement.Models.Editemailviewmodel;
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form asp-action="Editemail" asp-controller="Employee" method="post">
+        <div class="form-group">
+
+            <label for="Oldemail">Oldemail</label>
+            <input asp-for="Oldemail" type="text" class="form-control" id="Oldemail" value=@Model.Oldemail>
+
+            <input type="hidden" asp-for="Oldemail" />
+            <label for="NewEmail">NewEmail</label>
+            <input asp-for="Newemail" type="text" class="form-control" id="NewEmail" placeholder="Enter Email">
+            <span asp-validation-for="Newemail" class="alert-danger"></span>
+        </div>
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </form>
+    <div asp-validation-summary="All" class="text-danger"></div>
+</body>
+</html>

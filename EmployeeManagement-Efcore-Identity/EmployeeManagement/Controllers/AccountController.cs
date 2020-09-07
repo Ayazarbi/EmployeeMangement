@@ -23,39 +23,44 @@ namespace EmployeeManagement.Controllers
             this.employeeRepository = employeeRepository;
         }
 
-        [HttpGet]
-        public IActionResult Signup()
-        {
-            return View();
-        }
 
-        [HttpPost]
-        public async Task<IActionResult> Signup(Signupmodel user)
-        {
-            if (ModelState.IsValid)
-            {
-                var newuser = new IdentityUser { UserName = user.Email, Email = user.Email };
-                var result = await UserManager.CreateAsync(newuser, user.Password);
+        //*****Registrattion Code**********////
 
-                if (result.Succeeded)
-                {
-                    await SignInManager.SignInAsync(newuser, isPersistent: false);
-                    return RedirectToAction("index", "employee");
-                }
+        //[HttpGet]
+        //public IActionResult Signup()
+        //{
+        //    return View();
+        //}
 
-                foreach (var error in result.Errors)
-                {
-                    ModelState.AddModelError("", error.Description);
-                }
+        //[HttpPost]
+        //public async Task<IActionResult> Signup(Signupmodel user)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        var newuser = new IdentityUser { UserName = user.Email, Email = user.Email };
+        //        var result = await UserManager.CreateAsync(newuser, user.Password);
 
-            }
-            return View(user);
+        //        if (result.Succeeded)
+        //        {
+        //            await SignInManager.SignInAsync(newuser, isPersistent: false);
+        //            return RedirectToAction("index", "employee");
+        //        }
+
+        //        foreach (var error in result.Errors)
+        //        {
+        //            ModelState.AddModelError("", error.Description);
+        //        }
+
+        //    }
+        //    return View(user);
 
 
 
 
-        }
+        //}
 
+        
+        
         [HttpGet]
         public IActionResult Login()
         {
@@ -171,6 +176,11 @@ namespace EmployeeManagement.Controllers
             }
             return View();
 
+        }
+
+        public ActionResult AccessDenied()
+        {
+            return View();
         }
 
 

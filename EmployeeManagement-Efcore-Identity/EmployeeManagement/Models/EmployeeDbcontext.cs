@@ -21,6 +21,7 @@ namespace EmployeeManagement.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Employee>().HasIndex(x => x.Email).IsUnique(); 
 
         }
 

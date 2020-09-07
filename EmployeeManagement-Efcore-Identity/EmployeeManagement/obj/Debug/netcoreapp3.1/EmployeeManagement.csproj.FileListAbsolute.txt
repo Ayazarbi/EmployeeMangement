@@ -344,3 +344,5 @@ C:\Users\moaya\Downloads\EmployeeMangement-EFCore\EmployeeMangement-EFCore\Emplo
 C:\Users\moaya\Downloads\EmployeeMangement-EFCore\EmployeeMangement-EFCore\EmployeeManagement-Efcore\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
 C:\Users\moaya\Downloads\EmployeeMangement-EFCore\EmployeeMangement-EFCore\EmployeeManagement-Efcore\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetForm.cshtml.g.cs
 C:\Users\moaya\Downloads\EmployeeMangement-EFCore\EmployeeMangement-EFCore\EmployeeManagement-Efcore\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\moaya\Downloads\EmployeeMangement-EFCore\EmployeeMangement-EFCore\EmployeeManagement-Efcore\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccessDenied.cshtml.g.cs
+C:\Users\moaya\Downloads\EmployeeMangement-EFCore\EmployeeMangement-EFCore\EmployeeManagement-Efcore\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Editemail.cshtml.g.cs

@@ -18,6 +18,7 @@ namespace EmployeeManagement.Controllers
         private IDepartmentRepository _departmentdata;
         private readonly UserManager<IdentityUser> userManager;
         private readonly SignInManager<IdentityUser> signInManager;
+            
 
         public EmployeeController(IEmployeeRepository employeedata, IDepartmentRepository departmentRepository, UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
         {
@@ -25,6 +26,7 @@ namespace EmployeeManagement.Controllers
             _departmentdata = departmentRepository;
             this.userManager = userManager;
             this.signInManager = signInManager;
+           
         }
 
 
@@ -76,7 +78,7 @@ namespace EmployeeManagement.Controllers
         {
             
            var employee= _employeedata.GetAllEmployees().FirstOrDefault(x=>x.EmployeeId==id);
-            var user = await userManager.FindByEmailAsync(employee.Name+employee.Surname+"@gmail.com");
+            var user = await userManager.FindByEmailAsync(employee.Email);
             var result=await userManager.DeleteAsync(user);
             if (result.Succeeded)
             {
@@ -102,17 +104,22 @@ namespace EmployeeManagement.Controllers
         [HttpPost]
         public async Task<IActionResult> EditEmployee(int id, Employee emp)
         {
-             if (ModelState.IsValid)
-            {
-                    emp.EmployeeId = id;
-                    var Department = _departmentdata.GetallDepartments().Find(x => x.Department_name == emp.Department.Department_name);
-                    emp.Department = Department;
-             
-                    _employeedata.UpdateEmployee(emp, id);
-                    return RedirectToAction("Index");
-             }
 
-            
+            var user =await userManager.FindByEmailAsync(emp.Email);
+            if (ModelState.IsValid)
+            {
+                
+
+         
+                        emp.EmployeeId = id;
+                        var Department = _departmentdata.GetallDepartments().Find(x => x.Department_name == emp.Department.Department_name);
+                        emp.Department = Department;
+                       _employeedata.UpdateEmployee(emp, id);
+                        return RedirectToAction("Index");
+                 
+            }
+
+          
             return View();
 
 
@@ -131,8 +138,9 @@ namespace EmployeeManagement.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Employee emp)
         {
-            var user =await userManager.FindByEmailAsync(emp.Name + emp.Surname + "@gmail.com");
-
+            var email = emp.Name + emp.Surname + "@gmail.com";
+            var user =await userManager.FindByEmailAsync(email);
+            
            
                 if (ModelState.IsValid)
                 {
@@ -148,9 +156,12 @@ namespace EmployeeManagement.Controllers
                     var result = await userManager.CreateAsync(newuser, "aA123456789$");
                     if (result.Succeeded)
                     {
+
+                       await userManager.AddToRoleAsync(newuser, "Employee");
                         var Department = (_departmentdata.GetallDepartments()).Find(x => x.Department_name == emp.Department.Department_name);
                         //emp.EmployeeId = ((_employeedata.GetAllEmployees()).Count + 1);
                         emp.Department = Department;
+                        emp.Email = email;
 
                         var resultt = _employeedata.CreateEmployee(emp);
                         return View("EmployeeListPage", resultt);
@@ -166,6 +177,44 @@ namespace EmployeeManagement.Controllers
             }
             ViewBag.Departments = _departmentdata.GetallDepartments().ToList();
             return View();
+
+        }
+
+        
+        [HttpGet]
+        public ActionResult Editemail(int id)
+        {
+            var emp=_employeedata.GetAllEmployees().FirstOrDefault(x=>x.EmployeeId==id);
+            var editemailview = new Editemailviewmodel();
+            editemailview.Oldemail = emp.Email;
+            return View(editemailview);
+
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Editemail(Editemailviewmodel model)
+        {
+            var user =await userManager.FindByEmailAsync(model.Newemail);
+            if (user == null)
+            {
+                var exisingUser =await userManager.FindByEmailAsync(model.Oldemail);
+                var token = await userManager.GenerateChangeEmailTokenAsync(exisingUser, model.Newemail);
+                var result = await userManager.ChangeEmailAsync(exisingUser, model.Newemail, token);
+                if (result.Succeeded)
+                {
+                    var emp = _employeedata.GetAllEmployees().FirstOrDefault(x => x.Email == model.Oldemail);
+                    emp.Email = model.Newemail;
+                    _employeedata.UpdateEmployee(emp, emp.EmployeeId);
+                    ViewBag.Departments = _departmentdata.GetallDepartments().ToList();
+
+                    return View("Editemployee",emp);
+
+                }
+            }
+            ModelState.AddModelError("", "Email already exist");
+
+            ViewBag.Departments = _departmentdata.GetallDepartments().ToList();
+            return View(model);
 
         }
 

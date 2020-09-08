@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZFh02s3hKXw+0atP6IDxKpfmUe6SLffyW5TN+1BmlvPH5/OyeOLOyJEfcgjZsfNsXGYLHyr/oTtWu/DlDJKRw==",
+  "dgSpecHash": "cC1/j8hjuelnoB/WV/PkXf8NHh455zCrFPeqf5EOeExr2npySVPO5UhD+LMejQz0vgEnSx8YDxwrZNPLZhHZVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moaya\\Downloads\\EmployeeMangement-EFCore\\EmployeeMangement-EFCore\\EmployeeManagement-Efcore\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "E:\\Promact-git\\Employeemanagement\\EmployeeMangement\\EmployeeManagement-Efcore-identity\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moaya\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\moaya\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",

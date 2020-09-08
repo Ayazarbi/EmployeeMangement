@@ -5839,11 +5839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moaya\\Downloads\\EmployeeMangement-EFCore\\EmployeeMangement-EFCore\\EmployeeManagement-Efcore\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectUniqueName": "E:\\Promact-git\\Employeemanagement\\EmployeeMangement\\EmployeeManagement-Efcore-identity\\EmployeeManagement\\EmployeeManagement.csproj",
       "projectName": "EmployeeManagement",
-      "projectPath": "C:\\Users\\moaya\\Downloads\\EmployeeMangement-EFCore\\EmployeeMangement-EFCore\\EmployeeManagement-Efcore\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectPath": "E:\\Promact-git\\Employeemanagement\\EmployeeMangement\\EmployeeManagement-Efcore-identity\\EmployeeManagement\\EmployeeManagement.csproj",
       "packagesPath": "C:\\Users\\moaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moaya\\Downloads\\EmployeeMangement-EFCore\\EmployeeMangement-EFCore\\EmployeeManagement-Efcore\\EmployeeManagement\\obj\\",
+      "outputPath": "E:\\Promact-git\\Employeemanagement\\EmployeeMangement\\EmployeeManagement-Efcore-identity\\EmployeeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moaya\\AppData\\Roaming\\NuGet\\NuGet.Config",

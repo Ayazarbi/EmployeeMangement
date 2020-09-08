@@ -13,6 +13,7 @@ namespace EmployeeManagement.Controllers
     {
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly UserManager<IdentityUser> _userManager;
+       
 
         public AdministrationController(RoleManager<IdentityRole> roleManager,UserManager<IdentityUser> userManager)
         {
@@ -22,10 +23,12 @@ namespace EmployeeManagement.Controllers
 
         
         
+        
         [HttpGet]
         [Authorize(Roles = "Admin")]
         public IActionResult CreateRole()
         {
+         
             return View();
         }
        
@@ -121,16 +124,39 @@ namespace EmployeeManagement.Controllers
         [HttpPost]
         public async Task<ActionResult> AddUserinRole(EditviewModel model)
         {
+           
             var role =await _roleManager.FindByIdAsync(model.Id);
 
             var user = _userManager.Users.ToList().FirstOrDefault(x => x.UserName == model.Username);
-            var result= await _userManager.AddToRoleAsync(user,role.Name);
 
-            if (result.Succeeded)
+            if(!await _userManager.IsInRoleAsync(user,"HR")&&!await  _userManager.IsInRoleAsync(user, "Admin")&&!await _userManager.IsInRoleAsync(user, "Employee"))
             {
-                return RedirectToAction("EditRole",role);
+                var result = await _userManager.AddToRoleAsync(user, role.Name);
+
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("EditRole", role);
+                }
             }
-            return View();
+
+            EditviewModel em = new EditviewModel
+            {
+                Id = role.Id,
+                RoleName = role.Name,
+            };
+            foreach (var member in _userManager.Users)
+            {
+
+
+                if (await _userManager.IsInRoleAsync(member, role.Name))
+                {
+                    em.Users.Add(member.UserName);
+                }
+            }
+
+            ViewBag.Allusers = _userManager.Users.ToList();
+            ModelState.AddModelError("", "User Is already in role");
+            return View("EditRole",em);
         
         }
 

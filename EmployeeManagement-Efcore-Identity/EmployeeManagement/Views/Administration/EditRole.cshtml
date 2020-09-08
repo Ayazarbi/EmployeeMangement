@@ -39,6 +39,7 @@
                 <input type="submit" value="+" class="btn btn-outline-success" />
                 </form>
         </div>
+        <div asp-validation-summary="All" class="alert-danger text-danger" ></div>
         <br />
         <strong>Users in role</strong>
         @{ if (Model.Users.Count() == 0)
@@ -69,6 +70,7 @@
                 </div>
             }
         </div>
+
 
 
     </body>

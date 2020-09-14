@@ -1,0 +1,33 @@
+﻿@model EmployeeManagement.Models.Signupmodel;
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div class="container">
+        <h4 class="bg-success text-white text-center p-2">Sign Up</h4>
+        <form asp-action="Signup" asp-controller="Account" method="post">
+            <div class="form-group">
+                <label for="Password">Email</label>
+                <input asp-for="Email" type="text" class="form-control" id="Email" placeholder="Enter Email">
+                <span asp-validation-for="Email" class="alert-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Name">Password</label>
+                <input asp-for="Password" type="text" class="form-control" id="Password" placeholder="Enter Password">
+                <span asp-validation-for="Password" class="alert-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Confirm Password">Confirm Password</label>
+                <input asp-for="ConfirmPassword" type="text" class="form-control" id="Confirm Password" placeholder="Re-enter Password">
+                <span asp-validation-for="ConfirmPassword" class="alert-danger"></span>
+            </div>
+            <div>
+                <input type="submit" value="Signup" class="btn btn-success" />
+            </div>
+            <div asp-validation-summary="All" class="border-danger text-danger"></div>
+
+        </form>
+    </div>
+</body>
+</html>

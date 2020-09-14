@@ -1,0 +1,57 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> signinmanager
+@model IEnumerable<EmployeeManagement.Models.Employee>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <h3 class="text-center ">Employees List</h3>
+    <hr />
+    <a asp-controller="Employee" asp-action="Create" class="btn btn-success">Add Employee</a>
+    <hr />
+    @{ if (Model.Count() == 0)
+        {
+
+<h5 class="text-warning text-center alert-warning">No Preview Availible Please Add Employee</h5> } }
+
+
+    <div class="row">
+
+        @foreach (var item in Model)
+        {
+
+
+<div class="card" style="width: 14rem;margin-left:10px">
+    <img class="card-img-top" src="/Employee.png" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@item.Name @item.Surname</h5>
+        <p class="card-text">
+            Address:@item.Address<br />
+            Contactno:@item.Contactnumber<br />
+            Department:@item.Department.Department_name
+
+
+        </p>
+        @if (User.IsInRole("HR") || User.IsInRole("Admin"))
+        {
+<a asp-controller="Employee" asp-action="DeleteEmployee" asp-route-id=@item.EmployeeId class="btn btn-danger">Delete</a>
+                    <a asp-controller="Employee" asp-action="EditEmployee" asp-route-id=@item.EmployeeId class="btn btn-primary">Edit</a>}
+    </div>
+    <div class="card-footer">
+        @if (User.IsInRole("Employee") && User.Identity.Name == (item.Email))
+        {
+<a asp-controller="Employee" asp-action="EditEmployee" asp-route-id=@item.EmployeeId class="btn btn-primary">Edit Info</a>}
+    </div>
+</div>      }
+    </div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+</body>
+</html>
+
+@section Scripts{
+
+    <script src="~/microsoft-signalr/signalr.js"></script>
+    <script src="~/js/SinalRScripts.js"></script>
+}

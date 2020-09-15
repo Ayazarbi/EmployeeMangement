@@ -38,8 +38,8 @@
             <li class="nav-item">
                 <a class="nav-link text-dark" asp-area="" asp-controller="Administration" asp-action="ListRoles">Roles</a>
             </li>
-           
-</ul>
+
+        </ul>
     </div>}
 
 
@@ -59,43 +59,45 @@
             <li class="nav-item">
                 <a class="nav-link text-dark" asp-area="" asp-controller="Department" asp-action="Index">Department</a>
             </li>
-            
+
         </ul>
     </div>}
 
-                @if (signinmanager.IsSignedIn(User) )
+                @if (signinmanager.IsSignedIn(User))
                 {
 
 
                 }
 
-            <ul class="navbar-nav ml-auto">
-                @if (signinmanager.IsSignedIn(User))
-                {
-            <li class=" nav-item dropdown border-info-1 mr-2 ">
-                <a class="dropdown-toggle text-info" data-toggle="dropdown" href="#">
-                    Notification<span id="Counter" class="badge badge-info ml-2">4</span>
-                    <span class="caret"></span>
-                </a>
-                <ul id="Notificationmenu" class="dropdown-menu">
-                </ul>
-            </li>
-                            <li class="nav-item">
-                                <form method="post" asp-action="logout" asp-controller="Account">
-                                    <button type="submit" class="nav-link btn btn-link py-0 text-dark btn btn-outline-danger" style="width:auto">
-                                        Logout @User.Identity.Name
-                                    </button>
-                                </form>
-                            </li> }
-                                        else
-                                        {
+                <ul class="navbar-nav ml-auto">
+                    @if (signinmanager.IsSignedIn(User))
+                    {
+        <li class=" nav-item dropdown border-info-1 mr-2 ">
+            <a class="dropdown-toggle text-info" data-toggle="dropdown" href="#">
+                Notification<span id="Counter" class="badge badge-info ml-2"></span>
+                <span class="caret"></span>
+            </a>
+            <ul id="Notificationmenu" class="dropdown-menu">
+            </ul>
+        </li>
+                        <li class="nav-item">
+                            <form method="post" asp-action="logout" asp-controller="Account">
+                                <button type="submit" class="nav-link btn btn-link py-0 text-dark btn btn-outline-danger" style="width:auto">
+                                    Logout @User.Identity.Name
+                                </button>
+                            </form>
+                        </li>
+ }
+                    else
+                    {
 
-                            <li class="nav-item">
-                                <a class="nav-link text-primary btn btn-outline-primary text-primary ml-2" asp-area="" asp-controller="Account" asp-action="login">Login</a>
-                            </li>}
+        <li class="nav-item">
+            <a class="nav-link text-primary btn btn-outline-primary text-primary ml-2" asp-area="" asp-controller="Account" asp-action="login">Login</a>
+        </li>
+}
 
 
-</header>
+    </header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -110,6 +112,8 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/microsoft-signalr/signalr.js"></script>
+    <script src="~/js/SinalRScripts.js"></script>
 
 </body>
 </html>

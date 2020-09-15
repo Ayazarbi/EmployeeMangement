@@ -71,6 +71,12 @@ namespace EmployeeManagement.Controllers
             }
         }
 
+        [HttpGet]
+        public ActionResult Getallemployees()
+        {
+            return Ok(_employeedata.GetAllEmployees
+                ());
+        }
 
         [Authorize(Roles = "Admin,HR")]
        

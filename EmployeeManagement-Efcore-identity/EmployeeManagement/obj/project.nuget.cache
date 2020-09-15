@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jmQsu7ydPeMT5EIIJgqBZUJdutBHTwBMLvPsGRp1zE8/90MMS/oW9KAvb+m8D9/5B48xtTBg25bB2pRd1ib1aw==",
+  "dgSpecHash": "Hb8plerwi2BHBTq7uCz9nKzLQNHgDdudt2Mu6deGuqGXgV0NCQYG2Ddtk9lTVHZCz2R5JYDPDNGiNmk5HtFT8A==",
   "success": true,
-  "projectFilePath": "E:\\Promact-git\\Employeemanagement\\EmployeeMangement\\EmployeeManagement-Efcore-identity\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "E:\\Promact-git\\Employeemanagement\\EmployeeMangement\\EmployeeMangement\\EmployeeManagement-Efcore-identity\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moaya\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\moaya\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

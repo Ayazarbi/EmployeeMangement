@@ -17,7 +17,22 @@
 <h5 class="text-warning text-center alert-warning">No Preview Availible Please Add Employee</h5> } }
 
 
-    <div class="row">
+    @*<div>
+        <table class="table table-bordered text-center">
+
+            <thead class="bg-success text-center">
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Address</th>
+            <th>Email</th>
+            <th>Action</th>
+            </thead>
+            <tbody id="employeerow">
+            </tbody>
+        </table>
+    </div>*@
+
+    <div id="employeerow" class="row">
 
         @foreach (var item in Model)
         {
@@ -52,6 +67,4 @@
 
 @section Scripts{
 
-    <script src="~/microsoft-signalr/signalr.js"></script>
-    <script src="~/js/SinalRScripts.js"></script>
 }

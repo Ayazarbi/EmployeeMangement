@@ -12,7 +12,8 @@
         if (User.IsInRole("Employee"))
         {
             <input type="hidden" id="role" value="Employee">
-
+            <input type="hidden" id="department" value=@ViewBag.Department>
+ 
         }
         if (User.IsInRole("HR"))
         {

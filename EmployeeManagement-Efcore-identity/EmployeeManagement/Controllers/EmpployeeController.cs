@@ -44,6 +44,7 @@ namespace EmployeeManagement.Controllers
                 var departmentId = (_employeedata.GetAllEmployees().FirstOrDefault(x => x.Email == (empname))).DepartmentId;
                 var emplist = _employeedata.GetAllEmployees().Where(x => x.DepartmentId == departmentId);
                 var deptlist = _departmentdata.GetallDepartments();
+                ViewBag.Department = departmentId;
 
                 foreach (var emp in emplist)
                 {

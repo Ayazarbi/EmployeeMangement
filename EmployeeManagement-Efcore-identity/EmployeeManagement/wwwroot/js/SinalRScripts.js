@@ -2,11 +2,14 @@
 
 var count = 0;
 var counter = document.getElementById("Counter");
-var employeerow = document.getElementById("employeerow");
+
 counter.style.display = "none";
 var Notificationmenu = document.querySelector("#Notificationmenu");
 var connection = new signalR.HubConnectionBuilder().withUrl("/MyHub").build();
-var tr="";
+var tr = "";
+
+
+
 connection.start().then(function () {
     next();
     //loaddata();
@@ -43,6 +46,8 @@ function Createmenuitem(message){
 
 }
 
+
+
 //function loaddata() {
    
 //    $.ajax({
@@ -62,21 +67,5 @@ function Createmenuitem(message){
 
 //}
 
-//function buildcard(Employee) {
-
-//     tr =tr+`<tr>
-//<td>${Employee.name}</td>
-//<td>${Employee.surname}</td>
-//<td>${Employee.address}</td>
-//<td>${Employee.email}</td>
-//<td><a href="Employee/Deleteemployee/${Employee.employeeId}" class="btn btn-danger">Delete</a>
-//                    <a href="Employee/Editemployee/${Employee.employeeId}" class="btn btn-primary">Edit</a>
-//</tr>`
-//employeerow.innerHTML= tr;
-
-   
-
-
-//}
 
 

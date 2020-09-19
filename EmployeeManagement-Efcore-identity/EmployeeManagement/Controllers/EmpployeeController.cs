@@ -74,8 +74,15 @@ namespace EmployeeManagement.Controllers
         [HttpGet]
         public ActionResult Getallemployees()
         {
-            return Ok(_employeedata.GetAllEmployees
-                ());
+            var employeesList = _employeedata.GetAllEmployees();
+            var deptlist = _departmentdata.GetallDepartments();
+
+            foreach (var emp in employeesList)
+            {
+                emp.Department = (deptlist.FirstOrDefault(x => x.DepartmentId == emp.DepartmentId));
+            }
+
+            return Ok(employeesList);
         }
 
         [Authorize(Roles = "Admin,HR")]
@@ -174,7 +181,7 @@ namespace EmployeeManagement.Controllers
                         emp.Email = email;
 
                         var resultt = _employeedata.CreateEmployee(emp);
-                        return View("EmployeeListPage", resultt);
+                        return RedirectToAction("Index");
 
                     }
                     foreach (var error in result.Errors)

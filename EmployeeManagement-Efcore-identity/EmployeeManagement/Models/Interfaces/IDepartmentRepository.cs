@@ -8,7 +8,7 @@ namespace EmployeeManagement.Models
     public interface IDepartmentRepository
     {
          List<Department> GetallDepartments();
-        void DeleteDepartment(int id);
+        Task DeleteDepartment(int id);
         void UpdateDepartment(int id,Department dpt);
 
         void CreateDepartment(Department dpt);

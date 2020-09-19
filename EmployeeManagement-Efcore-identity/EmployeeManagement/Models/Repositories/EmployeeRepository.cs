@@ -40,7 +40,9 @@ namespace EmployeeManagement.Models
                 }
             }
 
+            _hubContext.Clients.All.SendAsync("Refresh");
             return _context._employeelist.ToList();
+
         }
 
         public void DeleteEmployee(int id)
@@ -52,6 +54,7 @@ namespace EmployeeManagement.Models
             }
              _context.SaveChanges();
             _hubContext.Clients.Users("86938f77-c4e2-46c3-a9f0-de5f0c4f26aa", "ccd63c10-d569-472c-a02f-72f9ac05d922").SendAsync("Receive", emp.Name+" Employee deleted");
+            _hubContext.Clients.All.SendAsync("Refresh");
         }
 
         public List<Employee> GetAllEmployees()
@@ -68,8 +71,10 @@ namespace EmployeeManagement.Models
             employee.State = Microsoft.EntityFrameworkCore.EntityState.Modified;
             _context.SaveChanges();
             _hubContext.Clients.Users("86938f77-c4e2-46c3-a9f0-de5f0c4f26aa", "ccd63c10-d569-472c-a02f-72f9ac05d922").SendAsync("Receive",  modifiedEmployee.Name+ " Employee Updated");
+            _hubContext.Clients.All.SendAsync("Refresh");
 
             return modifiedEmployee;
+        
         }
     }
 }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using EmployeeManagement.Models;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor.Compilation;
 
@@ -12,18 +13,26 @@ namespace EmployeeManagement.Controllers
     public class DepartmentController : Controller
     {
         private readonly IDepartmentRepository _departmentRepository;
-
+      
 
         public DepartmentController(IDepartmentRepository departmentRepository)
         {
             _departmentRepository = departmentRepository;
-
+           
         }
         [Authorize(Roles = "Admin,HR")]
         public IActionResult Index()
         {
             var listOfDepartments = _departmentRepository.GetallDepartments();
             return View("/Views/Department/DepartmentListPage.cshtml", listOfDepartments);
+        }
+
+        [HttpGet]
+        public ActionResult GetallDepartments()
+        {
+            var listOfDepartments = _departmentRepository.GetallDepartments();
+            return Ok(listOfDepartments);
+
         }
 
         [Authorize(Roles = "Admin")]

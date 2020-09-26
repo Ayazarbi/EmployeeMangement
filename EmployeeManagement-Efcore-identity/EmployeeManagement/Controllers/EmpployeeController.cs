@@ -83,7 +83,7 @@ namespace EmployeeManagement.Controllers
                 emp.Department = (deptlist.FirstOrDefault(x => x.DepartmentId == emp.DepartmentId));
             }
 
-            return Ok(employeesList);
+            return Ok(employeesList); 
         }
 
         [Authorize(Roles = "Admin,HR")]

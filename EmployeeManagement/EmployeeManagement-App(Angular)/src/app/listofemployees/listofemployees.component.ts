@@ -34,7 +34,8 @@ export class ListofemployeesComponent implements OnInit {
     if(this.Role=="Employee"){
         this.Employeeole=this.Role;
         this.ActiveEmail=localStorage.getItem('email');
-        this._databse.getallemployees().subscribe(x=>{
+       this._databse.getalldepartments().subscribe(x=>depts=x);
+         this._databse.getallemployees().subscribe(x=>{
 
           for (var emp in x) {
            if(x[emp].email==this.ActiveEmail){
@@ -49,6 +50,10 @@ export class ListofemployeesComponent implements OnInit {
           
 
         }
+           for(var emp in this.listofEmployee){
+          this.listofEmployee[emp].department=depts.find(x=>x.departmentId==  this.listofEmployee[emp].departmentId);
+
+    }
 
       })
     }

@@ -1,0 +1,48 @@
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <!-- Brand/logo -->
+    <a class="navbar-brand" [routerLink]="['/home/Employees']" routerLinkActive="router-link-active" >Employeemanagement</a>
+  
+    <!-- Links -->
+    <ul class="navbar-nav">
+      <li class="nav-item" *ngIf="isloogedin">
+        <a class="nav-link" [routerLink]="['/home/Employees']" >Employees</a>
+      </li>
+  
+      <li class="nav-item" *ngIf="isloogedin">
+        <a class="nav-link" [routerLink]="['/home/Departments']" routerLinkActive="router-link-active" >Departments </a>
+      </li>
+      <li class="nav-item" *ngIf="isloogedin">
+        <a class="nav-link" [routerLink]="['/home/Addemployee']" routerLinkActive="router-link-active" >Add Employee</a>
+        </li>
+        <li class="nav-item" *ngIf="isloogedin">
+          <a class="nav-link" [routerLink]="['/home/Adddepartment']" routerLinkActive="router-link-active" >Add Department</a>
+          </li>
+          <li class="nav-item dropdown" >
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+            Notification &nbsp;<span class="badge badge-secondary" [hidden]="Count<1">{{Count}}</span>
+            </a>
+            <div class="dropdown-menu">
+            <li *ngFor="let item of Notifications"><a >{{item}}</a></li>  
+            </div>
+          </li>
+          
+        <ul class="navbar-nav align-items-end" >
+          <li class="nav-item" *ngIf="isloogedin">
+            <a class="nav-link btn btn-danger text-white " (click)="Logout()"  >Logout</a>
+            </li>
+            <li class="nav-item" *ngIf="!isloogedin">
+              <a class="nav-link btn btn-primary text-white"  >Login</a>
+              </li>
+            </ul>
+  
+  
+      </ul>
+    
+     </nav>
+     <div>
+  
+      <router-outlet></router-outlet>
+  
+    </div>
+  

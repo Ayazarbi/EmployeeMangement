@@ -1,0 +1,644 @@
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/libman.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.exe
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.deps.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.dev.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Net.WebSockets.WebSocketProtocol.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csprojAssemblyReference.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfoInputs.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfo.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CoreCompileInputs.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.input.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.output.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorCoreGenerate.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetForm.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetPassword.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Signup.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/CreateRole.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/EditRole.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/ListRoles.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/Create.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/DepartmentListPage.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/EditDepartment.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Create.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemail.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemployee.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/EmployeeListPage.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Privacy.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AccessDenied.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CopyComplete
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.Manifest.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.xml
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.genruntimeconfig.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/libman.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.exe
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.deps.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.dev.json
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Net.WebSockets.WebSocketProtocol.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csprojAssemblyReference.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfoInputs.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfo.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CoreCompileInputs.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.input.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.output.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorCoreGenerate.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetForm.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetPassword.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Signup.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/CreateRole.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/EditRole.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/ListRoles.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/Create.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/DepartmentListPage.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/EditDepartment.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Create.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemail.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemployee.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/EmployeeListPage.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Privacy.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AccessDenied.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cs
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CopyComplete
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.Manifest.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.xml
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.dll
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.pdb
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.genruntimeconfig.cache
+E:/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/libman.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.deps.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.dev.json
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.pdb
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Net.WebSockets.WebSocketProtocol.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csprojAssemblyReference.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfoInputs.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfo.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CoreCompileInputs.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.input.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.output.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorCoreGenerate.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetForm.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetPassword.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Signup.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/CreateRole.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/EditRole.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/ListRoles.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/Create.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/DepartmentListPage.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/EditDepartment.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Create.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemail.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemployee.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/EmployeeListPage.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Privacy.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AccessDenied.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cs
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CopyComplete
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.Manifest.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.xml
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.pdb
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.genruntimeconfig.cache
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/media/kali/New Volume/Promact-git/Employeemanagement/EmployeeMangement/EmployeeMangement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/libman.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.exe
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.deps.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.dev.json
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.pdb
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Net.WebSockets.WebSocketProtocol.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csprojAssemblyReference.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfoInputs.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfo.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CoreCompileInputs.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.input.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.output.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorCoreGenerate.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetForm.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetPassword.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Signup.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/CreateRole.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/EditRole.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/ListRoles.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/Create.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/DepartmentListPage.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/EditDepartment.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Create.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemail.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemployee.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/EmployeeListPage.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Privacy.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AccessDenied.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cs
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CopyComplete
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.Manifest.cache
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.xml
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.dll
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.pdb
+F:/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.genruntimeconfig.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/libman.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.deps.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.dev.json
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.pdb
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Net.WebSockets.WebSocketProtocol.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csprojAssemblyReference.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfoInputs.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfo.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CoreCompileInputs.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.input.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.output.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorCoreGenerate.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetForm.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetPassword.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Signup.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/CreateRole.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/EditRole.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/ListRoles.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/Create.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/DepartmentListPage.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/EditDepartment.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Create.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemail.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemployee.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/EmployeeListPage.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Privacy.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AccessDenied.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cs
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CopyComplete
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.Manifest.cache
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.xml
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.dll
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.pdb
+/media/kali/New Volume1/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.genruntimeconfig.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/appsettings.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/libman.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.deps.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.runtimeconfig.dev.json
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.pdb
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/MySql.Data.EntityFrameworkCore.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Net.WebSockets.WebSocketProtocol.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csprojAssemblyReference.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfoInputs.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.AssemblyInfo.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorAssemblyInfo.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.input.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.TagHelpers.output.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorCoreGenerate.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetForm.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/ResetPassword.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Account/Signup.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/CreateRole.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/EditRole.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Administration/ListRoles.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/Create.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/DepartmentListPage.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Department/EditDepartment.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Create.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemail.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Editemployee.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/EmployeeListPage.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Privacy.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/AccessDenied.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.RazorTargetAssemblyInfo.cs
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.Views.pdb
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.csproj.CopyComplete
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.Manifest.cache
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeManagement.StaticWebAssets.xml
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.dll
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.pdb
+/home/kali/Desktop/Employeemanagement/EmployeeManagement-Efcore-identity/EmployeeManagement/obj/Debug/netcoreapp3.1/EmployeeManagement.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+<div *ngIf="Employeeole || HRrole"> <h4 class="alert alert-danger">Unauthorized Access </h4></div>
+
+<div *ngIf="AdminRole">
+<h3 class="bg-info text-center text-white p-3">Edit Department</h3>
+<form #myform="ngForm" (ngSubmit)="update()">
+
+  <div class="form-group">
+    <label for="Departmentname">DepartmentName</label>
+    <input class="form-control" type="text" id="Departmentname" name="Departmentname" required [class.border-danger]="myform.dirty && D_name.invalid" #D_name="ngModel" [(ngModel)]="Department.department_name" maxlength="10">
+    <span class="text-danger" *ngIf="myform.dirty && D_name.invalid">
+      Name can not be null
+    </span>
+  </div>
+<div>
+  <input type=submit  value="Update" class="btn btn-primary" [disabled]="myform.invalid">
+</div>
+
+
+
+</form>
+</div>

@@ -1,0 +1,59 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+
+<div>
+<body>
+    <h3 class="text-center text-white bg-info p-3">Edit Employee</h3>
+    <form #myform="ngForm" (ngSubmit)="Update()"  method="post">
+         <div class="form-group">
+            <label for="Name">Name</label>
+            <input  type="text" class="form-control " id="Name" placeholder="Enter Name" [(ngModel)]="Employee.name" name="Name" #E_name="ngModel" required [class.border-danger]="myform.dirty && E_name.invalid" >
+            <span *ngIf="myform.dirty && E_name.invalid" class=" text-danger"> Name cannot be empty</span>
+
+          </div>
+        <div class="form-group">
+            <label> Surname</label>
+            <input  type="text" class="form-control" id="Surname" placeholder="Enter Surname" [(ngModel)]="Employee.surname" name="Surname" #E_surname="ngModel" required [class.border-danger]="myform.dirty && E_surname.invalid">
+            <span *ngIf="myform.dirty && E_surname.invalid" class="  text-danger "> Surname cannot be empty</span>
+          </div>
+
+        <div class="form-group">
+            <label for="Address">Address</label>
+            <textarea  class="form-control" id="Address" placeholder="Enter address" [(ngModel)]="Employee.address" name="Address" required #E_Addres="ngModel" [class.border-danger]="myform.dirty && E_Addres.invalid"></textarea>
+            <span *ngIf="myform.dirty && E_Addres.invalid" class="text-danger "> Address cannot be empty</span>
+
+        </div>
+
+        <div class="form-group">
+            <label for="Mobilenumber">Mobile number</label>
+            <input  type="number" class="form-control" id="Mobilenumber" placeholder="Enter Mobilenumber" [(ngModel)]="Employee.contactnumber" name="Mobilenumber" required maxlength=10 minlength=10 #E_mob="ngModel" [class.border-danger]="myform.dirty && E_mob.invalid">
+            <span *ngIf="myform.dirty && E_mob.invalid" class="  text-danger "> Mobile cannot be empty</span>
+
+        </div>
+
+
+        <div class="form-group">
+          <label for="Department" >Department</label>
+          <select  required [(ngModel)]="Employee.departmentId" name="Departmentid" required>
+           <option disabled>Select Department</option>
+           <option *ngFor="let dept of Departments" [value]="dept.departmentId">{{dept.department_name}}</option>
+          </select>
+          <!-- <span *ngIf="myform.dirty && E_dept.invalid" class="  text-danger "> Depaertment cannot be empty</span> -->
+
+          <br />
+          <input type="submit"   value="Create" class="btn btn-primary" />
+      </div>
+
+
+
+
+
+
+    </form>
+</body>
+</div>
+
+</html>
+

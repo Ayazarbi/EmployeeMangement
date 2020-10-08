@@ -1,0 +1,77 @@
+﻿@model EmployeeManagement.Models.EditviewModel;
+
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h3 class="text-center">Edit Role</h3>
+        <fieldset class="border-info">
+            <legend>Role Info</legend>
+            <form asp-action="EditRole" asp-controller="Administration" method="post">
+                <div class="form-group">
+                    <label for="RoleId">RoleId</label>
+                    <input type="text" asp-for="Id" id="RoleId" disabled class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label for="RoleName">Name</label>
+                    <input asp-for="RoleName" type="text" class="form-control" id="RoleName" placeholder="Enter Name" required>
+                    <span asp-validation-for="RoleName" class="alert-danger"></span>
+                </div>
+
+                <input type="submit" value="Update" class="btn btn-primary" />
+                <a asp-controller="Administration" asp-action="ListRoles" class="btn btn-danger">Cancel </a>
+            </form>
+        </fieldset>
+        <hr />
+        <div class="row align-content-end bg-light">
+            <strong>Add user</strong>&nbsp;
+            <form method="post" asp-controller="Administration" asp-action="AddUserInRole">
+                <input type="hidden" asp-for="@Model.Id" />
+                <select class="from-control" asp-for=@Model.Username>
+
+                    @foreach (var user in @ViewBag.Allusers)
+                    {
+                        <option>@user.UserName</option>
+                    }
+                </select>
+                <input type="submit" value="+" class="btn btn-outline-success" />
+                </form>
+        </div>
+        <div asp-validation-summary="All" class="alert-danger text-danger" ></div>
+        <br />
+        <strong>Users in role</strong>
+        @{ if (Model.Users.Count() == 0)
+            {
+
+
+                <h5 class="text-warning text-center alert-warning">No Preview Availible Please Add Employee</h5> } }
+
+        <div class="row">
+
+            @foreach (var item in Model.Users)
+            {
+
+
+                <div class="card" style="width: 14rem;margin-left:10px">
+                    <img class="card-img-top" src="/Employee.png" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@item </h5>
+
+                        <form method="post" asp-controller="Administration" asp-action="DeleteuserFromRole">
+                            <input type="hidden" asp-for="@Model.Username" value="@item" />
+                            <input type="hidden" asp-for="@Model.Id" />
+                            
+                            <input type="submit" value="Remove" class="btn btn-outline-danger" />
+                        </form>
+
+                    </div>
+                </div>
+            }
+        </div>
+
+
+
+    </body>
+    </html>

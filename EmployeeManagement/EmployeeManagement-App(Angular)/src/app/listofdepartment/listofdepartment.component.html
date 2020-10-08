@@ -1,0 +1,24 @@
+
+<div *ngIf="Employeeole"><h4 class="alert alert-danger">unauthorized access</h4> </div>
+<div *ngIf="AdminRole || HRrole  ">
+<div class=""><div class="alert-warning text-warning" *ngIf="listofDedpartments==null" >
+  No preview Availible
+  </div>
+  <div class="">
+  <h3 class="bg-info text-center text-white p-3 extended">List of Departments </h3>
+  <div class="row ">
+  <div class="card text-center ml-3" style="width: 18rem;" *ngFor="let item of listofDedpartments">
+    <img class="card-img-top" src="/assets//Department.jpg" alt="Card image cap">
+    <div class="card-body">
+      <h3 class="card-title">{{item.department_name}}</h3>
+      <p class="card-text">Contains All Employees of{{item.department_name}} Department<br>
+     <hr>
+
+      <a [routerLink]="['/home/Editdepartment',item.departmentId]" routerLinkActive="router-link-active"  class="btn btn-primary w-35">Edit</a>&nbsp;&nbsp;
+      <a   (click)="Deletedepartment(item.departmentId)" class="btn btn-danger w-35">Delete</a>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+</div>

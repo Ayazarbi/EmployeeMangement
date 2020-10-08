@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityRole>;
+
+@*<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>*@
+    <h3 class="bg-primary text-center text-white">List of roles</h3>
+       <hr />
+           <a asp-controller="Administration" asp-action="CreateRole" class="btn btn-success">Add role</a>
+       
+<hr />
+    <div class="row">
+        @foreach (var role in Model)
+        {
+            <div class="card" style="width: 14rem;margin-left:10px">
+                <img class="card-img-top" src="/Department.png" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@role.Name</h5>
+                    <p class="card-text">
+                        @role.NormalizedName
+
+                    </p>
+                    <a asp-controller="Administration" asp-action="DeleteRole" asp-route-id=@role.Id class="btn btn-danger">Delete</a>
+                    <a asp-controller="Administration" asp-action="EditRole" asp-route-id=@role.Id class="btn btn-primary">Edit</a>
+                </div>
+            </div>
+        }
+    </div>
+@*</body>
+</html*@

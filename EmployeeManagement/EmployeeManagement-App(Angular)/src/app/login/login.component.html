@@ -1,0 +1,40 @@
+<div class="container align-middle">
+  <div class="text-center">
+    <h3 class="bg-primary p-2  text-white">Login</h3>
+  </div>
+  <div>
+    <form #myform="ngForm" (ngSubmit)="login()">
+      <div class="form-group">
+        <label for="Email">Email</label>
+        <input class="form-control" type="text" name="Email" id="Email" [(ngModel)]="User.email">
+      </div>
+
+      <div class="form-group">
+        <label for="Passoword">Password</label>
+        <input class="form-control" type="password" name="Password" id="Password" [(ngModel)]="User.password">
+      </div>
+
+      <div>
+        <a [routerLink]="['/Forgotpassword']" routerLinkActive="router-link-active" > Forgot Password??</a>
+      </div>
+
+      <div class="form-group">
+        <label>Remember me</label>&nbsp;
+
+          <input type="checkbox" name="rememberme" id="rememberme" [(ngModel)]="User.rememberme">
+
+
+      </div>
+
+      <div>
+
+        <input class="btn btn-primary" type="submit" value="Login" >
+      </div>
+      <div class="alert alert-danger text-danger h-25" *ngIf="error">
+        <h6>{{error}}</h6>
+      </div>
+
+
+    </form>
+  </div>
+</div>
